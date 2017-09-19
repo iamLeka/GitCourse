@@ -4,6 +4,20 @@ LAB 1
 2. Upstream: basis stream, bronbestanden
 remote: fork van de upstream 
 local: clone van upstream of van de remote ervan. (best is van remote)
-3. Working: de geschiedenis 
+3. Working: lokale bestanden
 staging : vertaalt de ingevoerde (adds) naar de local (historie)
-local: lokale bestanden
+local: de geschiedenis
+
+LAB 2
+1. in de browser in de local een .txt bestand aangemaakt met Word, dit met git add toegevoegd aan de staging area. Daarna met git push de ‘working’ op mijn fork aangepast
+
+LAB 3
+Git remote add upstream
+Oftewel in benoem in mijn remotebranch de URL van seppeg als upstream
+
+LAB 4
+1. Git pull upstream of git pull en dan URL van seppeg daarna git push naar remote
+2. Git pull van seppeg upstream naar local, dan git push naar eigen remote
+
+LAB 5
+
