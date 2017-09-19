@@ -1,0 +1,9 @@
+LAB 1
+
+1. Op de fork knop op github repository page
+2. Upstream: basis stream, bronbestanden
+remote: fork van de upstream 
+local: clone van upstream of van de remote ervan. (best is van remote)
+3. Working: de geschiedenis 
+staging : vertaalt de ingevoerde (adds) naar de local (historie)
+local: lokale bestanden
